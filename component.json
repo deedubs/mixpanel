@@ -1,0 +1,13 @@
+{
+  "name": "mixpanel",
+  "repo": "deedubs/mixpanel",
+  "description": "Component for integrating mixpanel",
+  "version": "0.0.1",
+  "keywords": ["mixpanel","analytics"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
